@@ -1,5 +1,6 @@
 <template>
-  <div class=""></div>
+  <section id="Banner-section">
+  </section>
 </template>
 
 <script>
