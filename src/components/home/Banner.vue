@@ -29,7 +29,11 @@
     </div>
   </div>
   <div class="max-w-6xl mx-auto shadow-md mb-20">
-    <video src="/images/Banner-video.mov" autoplay muted></video>
+    <video src="/images/Banner-video.mov" autoplay muted loop></video>
+  </div>
+  <div class="max-w-6xl mx-auto mb-20 text-center">
+    <h5 class="">TRUSTED BY COMPANIES ALL OVER THE WORLD</h5>
+    <div class=""></div>
   </div>
 </template>
 
