@@ -28,13 +28,28 @@
       </div>
     </div>
   </div>
-  <div class="max-w-6xl mx-auto shadow-md mb-20">
-    <video src="/images/Banner-video.mov" autoplay muted loop></video>
-  </div>
-  <div class="max-w-6xl mx-auto mb-20 text-center">
-    <h5 class="">TRUSTED BY COMPANIES ALL OVER THE WORLD</h5>
-    <div class=""></div>
-  </div>
+  <!--  Banner Video Section-->
+  <section>
+    <div class="max-w-6xl mx-auto shadow-md mb-20">
+      <video src="/images/Banner-video.mov" autoplay muted loop></video>
+    </div>
+  </section>
+  <!--  Company Section-->
+  <section>
+    <div class="max-w-6xl mx-auto mb-20 text-center">
+      <h5 class="">TRUSTED BY COMPANIES ALL OVER THE WORLD</h5>
+      <div class="flex justify-center items-center">
+        <div class="grid gap-4 grid-cols-2 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-6 mt-4">
+          <img src="/images/cocacola.svg" alt="" class="w-60">
+          <img src="/images/master-card.svg" alt="" class="w-60">
+          <img src="/images/kue.svg" alt="" class="w-60">
+          <img src="/images/orkla.svg" alt="" class="w-60">
+          <img src="/images/obos.svg" alt="" class="w-60">
+          <img src="/images/ram.svg" alt="" class="w-60">
+        </div>
+      </div>
+    </div>
+  </section>
 </template>
 
 <script>
