@@ -1,5 +1,5 @@
 <template>
-  <div class="max-w-5xl space-y-8 mx-auto my-36 px-5 lg:px-16 font-sans">
+  <div class="max-w-5xl space-y-8 mx-auto mt-36 mb-20 px-5 lg:px-16 font-sans">
     <!--    Banner ctx-->
     <h3 class="font-bold text-slate-800 font-sans lg:text-6xl text-5xl">
       A smarter and simpler way to map Flowcharts
@@ -27,6 +27,9 @@
         </button>
       </div>
     </div>
+  </div>
+  <div class="max-w-6xl mx-auto shadow-md mb-20">
+    <video src="/images/Banner-video.mov" autoplay muted></video>
   </div>
 </template>
 
