@@ -50,6 +50,12 @@
       </div>
     </div>
   </section>
+  <!--  Feature Section-->
+  <section>
+    <div class=" mx-auto mb-20 bg-gray-100 p-20">
+      <div class="text-5xl text-center font-bold">Features</div>
+    </div>
+  </section>
 </template>
 
 <script>
