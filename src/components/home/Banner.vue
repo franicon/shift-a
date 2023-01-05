@@ -1,5 +1,5 @@
 <template>
-  <div class="max-w-5xl space-y-8 mx-auto my-36 px-5 lg:px-16 font-sans">
+  <div class="max-w-5xl space-y-8 mx-auto mt-36 mb-20 px-3 lg:px-16 font-sans">
     <!--    Banner ctx-->
     <h3 class="font-bold text-slate-800 font-sans lg:text-6xl text-5xl">
       A smarter and simpler way to map Flowcharts
@@ -28,6 +28,63 @@
       </div>
     </div>
   </div>
+  <!--  Banner Video Section-->
+  <section>
+    <div class="max-w-6xl mx-auto shadow-md mb-20">
+      <video src="/images/Banner-video.mov" autoplay muted loop></video>
+    </div>
+  </section>
+  <!--  Company Section-->
+  <section>
+    <div class="max-w-6xl mx-auto mb-20 text-center">
+      <h5 class="">TRUSTED BY COMPANIES ALL OVER THE WORLD</h5>
+      <div class="flex justify-center items-center">
+        <div class="grid gap-4 grid-cols-2 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-6 mt-4">
+          <img src="/images/cocacola.svg" alt="" class="w-60">
+          <img src="/images/master-card.svg" alt="" class="w-60">
+          <img src="/images/kue.svg" alt="" class="w-60">
+          <img src="/images/orkla.svg" alt="" class="w-60">
+          <img src="/images/obos.svg" alt="" class="w-60">
+          <img src="/images/ram.svg" alt="" class="w-60">
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--  Feature Section-->
+  <section>
+    <div class="mx-auto mb-20 bg-gray-100 lg:p-20 p-5">
+      <div class="text-5xl text-center font-bold">Features</div>
+      <div class="max-w-6xl mx-auto my-8">
+        <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-5">
+          <div
+              class="border rounded bg-gray-50 px-5 py-3 cursor-pointer font-normal hover:border-gray-400 duration-200">
+            <div class="pt-2">
+              <h1 class="font-semibold">Automatic flow layout</h1>
+              <p>No more crossing spagetti-lines</p>
+            </div>
+            <video src="/images/feature-1.mp4" muted autoplay loop class="mt-3 border w-full"></video>
+          </div>
+          <div class="border rounded bg-gray-50 px-5 py-3 cursor-pointer hover:border-gray-400 duration-200">
+            <div class="pt-2">
+              <h1 class="">Narrative with actors</h1>
+              <p class="">Tie your whole organization Together</p>
+            </div>
+            <img src="/images/feature-2.webp" class="mt-3 border">
+          </div>
+          <div class="border rounded bg-gray-50 px-5 py-3 cursor-pointer hover:border-gray-400 duration-200">
+            <div class="pt-2">
+              <h1 class="">Access control</h1>
+              <p class="">Keep flows private or share with anyone</p>
+            </div>
+            <img src="/images/feature-3.webp" class="mt-3 border">
+          </div>
+        </div>
+        <div class="my-14 text-center">
+          <button class="btn-blue">Browse all features</button>
+        </div>
+      </div>
+    </div>
+  </section>
 </template>
 
 <script>
