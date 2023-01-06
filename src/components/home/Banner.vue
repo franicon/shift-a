@@ -117,7 +117,7 @@
   </section>
   <!--  Call to Action-->
   <section>
-    <div class="bg-blue-50 text-center w-full p-28">
+    <div class="bg-blue-50 text-center w-full md:p-28 py-20 px-3">
       <h1 class="text-5xl font-bold">Try ShiftX for free</h1>
       <p class="max-w-xl mx-auto py-6">Set up your own single-user, free-forever account, or try ShiftX free for 14 days
         with the rest of your colleagues.</p>
