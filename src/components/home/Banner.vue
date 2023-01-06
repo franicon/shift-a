@@ -85,6 +85,14 @@
       </div>
     </div>
   </section>
+  <!--  Integrations Section-->
+  <section>
+    <div class="max-w-6xl mx-auto text-center my-20 space-y-4">
+      <div class="text-5xl font-bold">Integrations</div>
+      <p class="">Bring ShiftX into your other apps with our integrations, embeds and iframe options.</p>
+      <div class="grid grid-cols-2 gap-5 p-6 xl:grid-gaps-5"></div>
+    </div>
+  </section>
 </template>
 
 <script>
