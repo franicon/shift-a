@@ -124,6 +124,7 @@
       <button class="btn-blue mt-5">Get started</button>
     </div>
   </section>
+  <footer class="py-28 max-w-6xl"></footer>
 </template>
 
 <script>
