@@ -115,6 +115,15 @@
       <button class="btn-blue">Browse all integrations</button>
     </div>
   </section>
+  <!--  Call to Action-->
+  <section>
+    <div class="bg-blue-50 text-center w-full p-20">
+      <h1 class="text-5xl font-bold">Try ShiftX for free</h1>
+      <p class="max-w-xl mx-auto py-6">Set up your own single-user, free-forever account, or try ShiftX free for 14 days
+        with the rest of your colleagues.</p>
+      <button class="btn-blue mt-5">Get started</button>
+    </div>
+  </section>
 </template>
 
 <script>
