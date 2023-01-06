@@ -87,10 +87,10 @@
   </section>
   <!--  Integrations Section-->
   <section>
-    <div class="max-w-6xl mx-auto text-center my-20 space-y-4 px-4">
+    <div class="max-w-6xl mx-auto text-center my-20  px-4">
       <div class="text-5xl font-bold">Integrations</div>
-      <p class="">Bring ShiftX into your other apps with our integrations, embeds and iframe options.</p>
-      <div class="grid grid-cols-2 gap-10 xl:grid-cols-5 pt-10">
+      <p class="pt-5">Bring ShiftX into your other apps with our integrations, embeds and iframe options.</p>
+      <div class="grid grid-cols-2 gap-10 xl:grid-cols-5 pt-10 mb-10">
         <div class="p-4 border rounded-lg hover:border-gray-400 duration-200">
           <img src="/images/confluence.png" alt="" class="w-10 mx-auto">
           <p class="pt-3">Confluence</p>
@@ -112,6 +112,7 @@
           <p class="pt-3">Confluence</p>
         </div>
       </div>
+      <button class="btn-blue">Browse all integrations</button>
     </div>
   </section>
 </template>
