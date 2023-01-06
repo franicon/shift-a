@@ -87,10 +87,41 @@
   </section>
   <!--  Integrations Section-->
   <section>
-    <div class="max-w-6xl mx-auto text-center my-20 space-y-4">
+    <div class="max-w-6xl mx-auto text-center my-20  px-4">
       <div class="text-5xl font-bold">Integrations</div>
-      <p class="">Bring ShiftX into your other apps with our integrations, embeds and iframe options.</p>
-      <div class="grid grid-cols-2 gap-5 p-6 xl:grid-gaps-5"></div>
+      <p class="pt-5">Bring ShiftX into your other apps with our integrations, embeds and iframe options.</p>
+      <div class="grid grid-cols-2 gap-10 xl:grid-cols-5 pt-10 mb-10">
+        <div class="p-4 border rounded-lg hover:border-gray-400 duration-200">
+          <img src="/images/confluence.png" alt="" class="w-10 mx-auto">
+          <p class="pt-3">Confluence</p>
+        </div>
+        <div class="p-4 border rounded-lg hover:border-gray-400 duration-200">
+          <img src="/images/notion.png" alt="" class="w-10 mx-auto">
+          <p class="pt-3">Confluence</p>
+        </div>
+        <div class="p-4 border rounded-lg hover:border-gray-400 duration-200">
+          <img src="/images/teams.png" alt="" class="w-10 mx-auto">
+          <p class="pt-3">Confluence</p>
+        </div>
+        <div class="p-4 border rounded-lg hover:border-gray-400 duration-200">
+          <img src="/images/sharepoint.png" alt="" class="w-10 mx-auto">
+          <p class="pt-3">Confluence</p>
+        </div>
+        <div class="p-4 border rounded-lg hover:border-gray-400 duration-200">
+          <img src="/images/slite.png" alt="" class="w-10 mx-auto">
+          <p class="pt-3">Confluence</p>
+        </div>
+      </div>
+      <button class="btn-blue">Browse all integrations</button>
+    </div>
+  </section>
+  <!--  Call to Action-->
+  <section>
+    <div class="bg-blue-50 text-center w-full md:p-28 py-20 px-3">
+      <h1 class="text-5xl font-bold">Try ShiftX for free</h1>
+      <p class="max-w-xl mx-auto py-6">Set up your own single-user, free-forever account, or try ShiftX free for 14 days
+        with the rest of your colleagues.</p>
+      <button class="btn-blue mt-5">Get started</button>
     </div>
   </section>
 </template>
