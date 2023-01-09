@@ -124,7 +124,41 @@
       <button class="btn-blue mt-5">Get started</button>
     </div>
   </section>
-  <footer class="py-28 max-w-6xl"></footer>
+  <footer class="py-28 max-w-6xl">
+    <div class="flex flex-col lg:flex-row justify-center items-center">
+      <h1 class=" font-extrabold text-3xl">Shifta</h1>
+      <div class="flex space-x-20 flex-col lg:flex-row">
+        <div class="space-y-2">
+          <h1 class="">Product</h1>
+          <p class="">Features</p>
+          <p class="">Why ShiftA?</p>
+          <p class="">Integrations</p>
+          <p class="">Templates</p>
+        </div>
+        <div class="">
+          <h1 class="">Product</h1>
+          <p class="">Features</p>
+          <p class="">Why ShiftA?</p>
+          <p class="">Integrations</p>
+          <p class="">Templates</p>
+        </div>
+        <div class="">
+          <h1 class="">Product</h1>
+          <p class="">Features</p>
+          <p class="">Why ShiftA?</p>
+          <p class="">Integrations</p>
+          <p class="">Templates</p>
+        </div>
+        <div class="">
+          <h1 class="">Product</h1>
+          <p class="">Features</p>
+          <p class="">Why ShiftA?</p>
+          <p class="">Integrations</p>
+          <p class="">Templates</p>
+        </div>
+      </div>
+    </div>
+  </footer>
 </template>
 
 <script>
