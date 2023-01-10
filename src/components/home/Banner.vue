@@ -124,10 +124,10 @@
       <button class="btn-blue mt-5">Get started</button>
     </div>
   </section>
-  <footer class="py-28 p-5 max-w-6xl mx-auto">
-    <div class="flex flex-col lg:flex-row  items-start">
+  <footer class="py-28 p-5 max-w-6xl lg:mx-auto md:mx-10 mx-4">
+    <div class="flex flex-col lg:flex-row items-start">
       <h1 class=" font-extrabold text-3xl">Shifta</h1>
-      <div class="flex md:space-x-20 space-y-12 md:mx-auto md:space-y-0 flex-col md:flex-row">
+      <div class="flex md:space-x-20 items-start space-y-12 lg:mx-auto md:space-y-0 flex-col md:flex-row">
         <div class="space-y-2">
           <h1 class="font-semibold">Product</h1>
           <div class="text-sm font-semibold group text-gray-800 space-y-3">
