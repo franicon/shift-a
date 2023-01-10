@@ -147,12 +147,11 @@
           </div>
         </div>
         <div class="space-y-2">
-          <h1 class="font-semibold">Product</h1>
+          <h1 class="font-semibold">Company</h1>
           <div class="text-sm font-semibold group text-gray-800 space-y-3">
-            <a href="" class="group-hover:text-blue-700">Features</a>
-            <p>Why ShiftA?</p>
-            <p>Integrations</p>
-            <p>Templates</p>
+            <p><a href="" class="hover:text-blue-700">About Us</a></p>
+            <p><a href="" class="hover:text-blue-700">Careers</a></p>
+            <p><a href="" class="hover:text-blue-700">Contact</a></p>
           </div>
         </div>
         <div class="space-y-2">
