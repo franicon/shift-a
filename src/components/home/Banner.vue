@@ -22,7 +22,7 @@
       <div class="group">
         <button
             class=" font-thin text-gray-600 flex items-center group-hover:text-blue-700 duration-200 group-hover:sepia">
-          <img src="/images/play-circle.svg" alt=""
+          <img src="/public/images/play-circle.svg" alt=""
                class="w-8 mr-2"> Learn more
         </button>
       </div>
@@ -31,7 +31,7 @@
   <!--  Banner Video Section-->
   <section>
     <div class="max-w-6xl mx-auto shadow-md mb-20">
-      <video src="/images/Banner-video.mov" autoplay muted loop></video>
+      <video src="/public/images/Banner-video.mov" autoplay muted loop></video>
     </div>
   </section>
   <!--  Company Section-->
