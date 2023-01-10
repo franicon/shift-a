@@ -124,6 +124,49 @@
       <button class="btn-blue mt-5">Get started</button>
     </div>
   </section>
+  <footer class="py-28 p-5 max-w-6xl mx-auto">
+    <div class="flex flex-col lg:flex-row  items-start">
+      <h1 class=" font-extrabold text-3xl">Shifta</h1>
+      <div class="flex md:space-x-20 space-y-12 md:mx-auto md:space-y-0 flex-col md:flex-row">
+        <div class="space-y-2">
+          <h1 class="font-semibold">Product</h1>
+          <div class="text-sm font-semibold group text-gray-800 space-y-3">
+            <a href="" class="group-hover:text-blue-700">Features</a>
+            <p>Why ShiftA?</p>
+            <p>Integrations</p>
+            <p>Templates</p>
+          </div>
+        </div>
+        <div class="space-y-2">
+          <h1 class="font-semibold">Resources</h1>
+          <div class="text-sm font-semibold text-gray-800 space-y-3">
+            <p><a href="" class="hover:text-blue-700">Customer cases</a></p>
+            <p><a href="" class="hover:text-blue-700">Blog</a></p>
+            <p><a href="" class="hover:text-blue-700">Support</a></p>
+          </div>
+        </div>
+        <div class="space-y-2">
+          <h1 class="font-semibold">Company</h1>
+          <div class="text-sm font-semibold group text-gray-800 space-y-3">
+            <p><a href="" class="hover:text-blue-700">About Us</a></p>
+            <p><a href="" class="hover:text-blue-700">Careers</a></p>
+            <p><a href="" class="hover:text-blue-700">Contact</a></p>
+          </div>
+        </div>
+        <div class="space-y-2">
+          <h1 class="font-semibold">Get started</h1>
+          <div class="text-sm font-semibold text-gray-800 space-y-3">
+            <p><a href="" class="hover:text-blue-700">Try for free</a></p>
+            <p><a href="" class="hover:text-blue-700">Pricing</a></p>
+            <p><a href="" class="hover:text-blue-700">Book a demo</a></p>
+          </div>
+        </div>
+      </div>
+      <div class="flex flex-col">
+        <p class="font-bold">Newsletter</p>
+      </div>
+    </div>
+  </footer>
 </template>
 
 <script>
