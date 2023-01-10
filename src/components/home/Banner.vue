@@ -31,7 +31,7 @@
   <!--  Banner Video Section-->
   <section>
     <div class="max-w-6xl mx-auto shadow-md mb-20">
-      <video src="/public/images/Banner-video.mov" autoplay muted loop></video>
+      <video src="/images/Banner-video.mp4" autoplay muted loop></video>
     </div>
   </section>
   <!--  Company Section-->
