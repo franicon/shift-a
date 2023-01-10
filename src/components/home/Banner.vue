@@ -124,37 +124,44 @@
       <button class="btn-blue mt-5">Get started</button>
     </div>
   </section>
-  <footer class="py-28 max-w-6xl">
-    <div class="flex flex-col lg:flex-row justify-center items-center">
-      <h1 class=" font-extrabold text-3xl">Shifta</h1>
+  <footer class="py-28 max-w-6xl mx-auto">
+    <div class="flex flex-col lg:flex-row  items-start">
+      <h1 class=" font-extrabold text-3xl pr-36">Shifta</h1>
       <div class="flex space-x-20 flex-col lg:flex-row">
         <div class="space-y-2">
-          <h1 class="">Product</h1>
-          <p class="">Features</p>
-          <p class="">Why ShiftA?</p>
-          <p class="">Integrations</p>
-          <p class="">Templates</p>
+          <h1 class="font-semibold">Product</h1>
+          <div class="text-sm font-semibold group text-gray-800 space-y-3">
+            <a href="" class="group-hover:text-blue-700">Features</a>
+            <p>Why ShiftA?</p>
+            <p>Integrations</p>
+            <p>Templates</p>
+          </div>
         </div>
-        <div class="">
-          <h1 class="">Product</h1>
-          <p class="">Features</p>
-          <p class="">Why ShiftA?</p>
-          <p class="">Integrations</p>
-          <p class="">Templates</p>
+        <div class="space-y-2">
+          <h1 class="font-semibold">Product</h1>
+          <div class="text-sm font-semibold group text-gray-800 space-y-3">
+            <a href="" class="group-hover:text-blue-700">Features</a>
+            <p>Why ShiftA?</p>
+            <p>Integrations</p>
+            <p>Templates</p>
+          </div>
         </div>
-        <div class="">
-          <h1 class="">Product</h1>
-          <p class="">Features</p>
-          <p class="">Why ShiftA?</p>
-          <p class="">Integrations</p>
-          <p class="">Templates</p>
+        <div class="space-y-2">
+          <h1 class="font-semibold">Product</h1>
+          <div class="text-sm font-semibold group text-gray-800 space-y-3">
+            <a href="" class="group-hover:text-blue-700">Features</a>
+            <p>Why ShiftA?</p>
+            <p>Integrations</p>
+            <p>Templates</p>
+          </div>
         </div>
-        <div class="">
-          <h1 class="">Product</h1>
-          <p class="">Features</p>
-          <p class="">Why ShiftA?</p>
-          <p class="">Integrations</p>
-          <p class="">Templates</p>
+        <div class="space-y-2">
+          <h1 class="font-semibold">Get started</h1>
+          <div class="text-sm font-semibold text-gray-800 space-y-3">
+            <p><a href="" class="hover:text-blue-700">Try for free</a></p>
+            <p><a href="" class="hover:text-blue-700">Pricing</a></p>
+            <p><a href="" class="hover:text-blue-700">Book a demo</a></p>
+          </div>
         </div>
       </div>
     </div>
